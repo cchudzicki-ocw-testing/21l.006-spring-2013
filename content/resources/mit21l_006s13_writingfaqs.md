@@ -8,6 +8,5 @@ parent_title: Related Resources
 parent_type: CourseSection
 resourcetype: Document
 title: 21L.006 American Literature writing FAQs
-type: OCWFile
 uid: 00620ab0-e525-ccd2-4794-16fd726a4c8a
 ---

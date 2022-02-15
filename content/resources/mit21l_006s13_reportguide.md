@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 21L.006 American Literature report guidelines
-type: OCWFile
 uid: 0ac5d68d-61be-3213-5dc5-071d1b7cfd3a
 ---

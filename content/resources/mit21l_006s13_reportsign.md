@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 21L.006 American Literature report signup
-type: OCWFile
 uid: f93a9e58-e6ad-91ec-ef68-714b779d03aa
 ---
