@@ -4,6 +4,7 @@ description: This files contains information regarding guidelines for revision.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21l-006-american-literature-spring-2013/432c9f2aaeafce17d3fd9bf22820d6df_MIT21L_006S13_revision.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
 resourcetype: Document
