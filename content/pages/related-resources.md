@@ -9,9 +9,9 @@ uid: 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4
 Writing Guides
 --------------
 
-[Writing FAQs (PDF)]({{< baseurl >}}/resources/mit21l_006s13_writingfaqs)
+{{< resource_link 00620ab0-e525-ccd2-4794-16fd726a4c8a "Writing FAQs (PDF)" >}}
 
-[Guidelines for revision (PDF)]({{< baseurl >}}/resources/mit21l_006s13_revision)
+{{< resource_link 432c9f2a-aeaf-ce17-d3fd-9bf22820d6df "Guidelines for revision (PDF)" >}}
 
 Outside Resources
 -----------------

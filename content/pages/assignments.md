@@ -24,9 +24,9 @@ Although authors and tasks vary from assignment to assignment, certain expectati
 2.  Focused research will be necessary for your work, and you should cite sources (including the text under consideration) and give credit accordingly, using MLA Works Cited format.
 3.  You are writing for an audience of peers who know the text as well as you do and will not need summaries of the plot or well-known facts. Try to illuminate the text and delight your readers.
 
-[Editing task signup for essays 1–3 (PDF)]({{< baseurl >}}/resources/mit21l_006s13_essaysignup)
+{{< resource_link 13eb3b19-27c4-202f-a45d-6d8c23183bce "Editing task signup for essays 1–3 (PDF)" >}}
 
-[Essay 1 research workshop assignment (PDF)]({{< baseurl >}}/resources/mit21l_006s13_researchwork)  
+{{< resource_link e22fd192-5cc4-5226-ab76-a871990548fc "Essay 1 research workshop assignment (PDF)" >}}  
 Complete this worksheet to prepare for the research workshop in the MIT Libraries on session 4.
 
 Essay 4
@@ -43,6 +43,6 @@ In-class report
 
 You will present an in-class report and handout on one of the course authors.
 
-[Author sign-up sheet (PDF)]({{< baseurl >}}/resources/mit21l_006s13_reportsign)
+{{< resource_link f93a9e58-e6ad-91ec-ef68-714b779d03aa "Author sign-up sheet (PDF)" >}}
 
-[Report guidelines (PDF)]({{< baseurl >}}/resources/mit21l_006s13_reportguide)
+{{< resource_link 0ac5d68d-61be-3213-5dc5-071d1b7cfd3a "Report guidelines (PDF)" >}}
