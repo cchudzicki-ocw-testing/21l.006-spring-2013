@@ -9,36 +9,36 @@ uid: 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4
 Writing Guides
 --------------
 
-{{< resource_link 00620ab0-e525-ccd2-4794-16fd726a4c8a "Writing FAQs (PDF)" >}}
+{{% resource_link 00620ab0-e525-ccd2-4794-16fd726a4c8a "Writing FAQs (PDF)" %}}
 
-{{< resource_link 432c9f2a-aeaf-ce17-d3fd-9bf22820d6df "Guidelines for revision (PDF)" >}}
+{{% resource_link 432c9f2a-aeaf-ce17-d3fd-9bf22820d6df "Guidelines for revision (PDF)" %}}
 
 Outside Resources
 -----------------
 
-{{< resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "General" "#General" >}}
+{{% resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "General" "#General" %}}
 
-{{< resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Spotlight on Grammar and Style" "#Spotlight_on_Grammar_and_Style" >}}
+{{% resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Spotlight on Grammar and Style" "#Spotlight_on_Grammar_and_Style" %}}
 
-{{< resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Mary Rowlandson" "#Mary_Rowlandson" >}}
+{{% resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Mary Rowlandson" "#Mary_Rowlandson" %}}
 
-{{< resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Transcendentalism" "#Transcendentalism" >}}
+{{% resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Transcendentalism" "#Transcendentalism" %}}
 
-{{< resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Nathaniel Hawthorne" "#Nathaniel_Hawthorne" >}}
+{{% resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Nathaniel Hawthorne" "#Nathaniel_Hawthorne" %}}
 
-{{< resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Herman Melville" "#Herman_Melville" >}}
+{{% resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Herman Melville" "#Herman_Melville" %}}
 
-{{< resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Frederick Douglass" "#Frederick_Douglass" >}}
+{{% resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Frederick Douglass" "#Frederick_Douglass" %}}
 
-{{< resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Harriet Beecher Stowe" "#Harriet_Beecher_Stowe" >}}
+{{% resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Harriet Beecher Stowe" "#Harriet_Beecher_Stowe" %}}
 
-{{< resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Walt Whitman" "#Walt_Whitman" >}}
+{{% resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Walt Whitman" "#Walt_Whitman" %}}
 
-{{< resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Samuel Clemens/Mark Twain" "#Samuel_Clemens_Mark_Twain" >}}
+{{% resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Samuel Clemens/Mark Twain" "#Samuel_Clemens_Mark_Twain" %}}
 
-{{< resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Harlem Renaissance" "#Harlem_Renaissance" >}}
+{{% resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Harlem Renaissance" "#Harlem_Renaissance" %}}
 
-{{< resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Toni Morrison" "#Toni_Morrison" >}}
+{{% resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Toni Morrison" "#Toni_Morrison" %}}
 
 ### {{< anchor "General" >}}{{< /anchor >}}General
 
