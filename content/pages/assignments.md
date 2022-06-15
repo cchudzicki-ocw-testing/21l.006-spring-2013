@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section outlines the assignments for the course including essays
+  and presentation work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
