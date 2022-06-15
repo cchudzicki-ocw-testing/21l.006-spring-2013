@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides writing guides and an extensive list of links to
+  outside resources.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
