@@ -6,6 +6,7 @@ file: /courses/21l-006-american-literature-spring-2013/13eb3b1927c4202fa45d6d8c2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
